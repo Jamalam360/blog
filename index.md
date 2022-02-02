@@ -1,5 +1,6 @@
-Here you can say lots of fun things about your site.
+Hey!
 
-Maybe say a some things about yourself.
+This is my blog (evidently!). I'm using it to rant about random things related to software
+development. Wish me luck!
 
-Or maybe what you plan to blog about.
+You can find my main portfolio [here](https://jamalam.tech/)
