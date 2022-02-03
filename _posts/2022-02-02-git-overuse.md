@@ -25,4 +25,4 @@ Now this is an _absolutely_ ridiculous workflow. I'm just updating a typo - the 
 
 So is this a good habit? On one hand, it's probably good to always make sure you can _swiftly and immediately destroy your mistakes with one command_. It's also good to know that you can always just delete the branch and be back where you started. On the other hand, it's costing me precious time (which I don't have a lot of at the moment (why am I writing a blog?)) and I'm not sure if it's worth it.
 
-That's about the end of that rant! Goodbye for now!
+That's about the end of that rant! Goodbye for now - Jamalam
